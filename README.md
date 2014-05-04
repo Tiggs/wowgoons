@@ -17,7 +17,6 @@ content based on World of Warcraft expansions and time based context.
 This project is designed to maintain the site.
 
 
--------------------------------------------------------------------------------------
-It must be repeated, that both this site (wowgoons.com) and Goon Squad itself does not participate in the activity 
-of scamming or accepting players or people's money or goods and services in any form or fashion. It's merely a joke.
--------------------------------------------------------------------------------------
+
+**It must be repeated, that both this site (wowgoons.com) and Goon Squad itself does not participate in the activity 
+of scamming or accepting players or people's money or goods and services in any form or fashion. It's merely a joke. If you are actively trying to obtain membership to Goon Squad and have not gone through the official channels you won't get in.**
